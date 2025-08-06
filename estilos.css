@@ -62,6 +62,7 @@ a:link{
 a:hover{
 }
 a:visited{
+	color:#acdff9;
 }
 .centradas{
 	margin:auto;
@@ -106,4 +107,5 @@ a:visited{
 .atletico{
 	font-family:Monofonto;
 	background-color:#9be1f2;
+
 }
