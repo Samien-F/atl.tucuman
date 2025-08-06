@@ -1,0 +1,109 @@
+@font-face{
+	font-family:"Insaniburger with Cheese";
+	src:url("fuentes/Insanibc.ttf");
+}
+@font-face{
+	font-family:"Alte Haas Grotesk";
+	src:url("fuentes/AlteHaasGroteskRegular.ttf");
+}
+@font-face{
+	font-family:Monofonto;
+	src:url("fuentes/monofonto.otf");
+}
+body{
+	background-image:url("imagenes/fondos/fondo3.jpg");
+}
+h1{
+	text-align:center;
+	font-family:Monofonto;
+	background-color:#9be1f2;
+	border-radius:20px;
+	margin-left:35%;
+	margin-right:35%;
+	border-style:outset;
+	box-shadow:10px 10px 30px #75bac7;
+}
+h2{
+	margin-left:10px;
+	font-family:"Insaniburger with Cheese";
+	letter-spacing:3px;
+}
+h3{
+	margin-left:20px;
+	font-family:"Insaniburger with Cheese";
+	letter-spacing:1px;
+}
+ul{
+	font-family:Verdana,Verdana, Geneva,sans-serif;
+	letter-spacing:1px;
+}
+table{
+	font-family:"Alte Haas Grotesk";
+	text-align:center;
+	border-radius:13px;
+}
+td{
+	border-radius:20px;
+}
+p{
+	font-family:"Alte Haas Grotesk";
+	margin-left:30px;
+	margin-right:30px;
+	letter-spacing:1px;
+}
+img{
+	box-shadow:15px 15px 30px #75bac7;
+	border-radius:30px;
+	border-style:outset;
+}
+a:link{
+	font-size:0px;
+}
+a:hover{
+}
+a:visited{
+}
+.centradas{
+	margin:auto;
+	text-align:center;
+	display:block;
+}
+.iconos{
+	margin-left:0.25%;
+	margin-right:0.25%;
+}
+.muestras{
+	margin-left:0.5%;
+	margin-right:0.5%;
+}
+.galeria{
+	margin-left:25%;
+	margin-right:25%;
+}
+.uniformes{
+	border-width:0px;
+	border-radius:0px;
+	box-shadow:0px 0px 0px;
+}
+.jugadores{
+	font-family:Monofonto;
+	background-color:#9be1f2;
+	border-radius:8px;
+}
+.blanco{
+	font-family:Monofonto;
+	background-color:#e4f2f2;
+	border-radius:8px;
+}
+.clasico{
+	font-family:Monofonto;
+	background-color:#e4f2f2;
+}
+.santo{
+	font-family:Monofonto;
+	background-color:#db4d4d;
+}
+.atletico{
+	font-family:Monofonto;
+	background-color:#9be1f2;
+}
